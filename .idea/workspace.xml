@@ -19,7 +19,43 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47aac48f-08b5-4920-96d0-4263378fbbc9" name="Default Changelist" comment="first commit" />
+    <list default="true" id="47aac48f-08b5-4920-96d0-4263378fbbc9" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/IDEA-workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearn/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearn/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearn/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/VariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/hello/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/helloword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/input_bone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/shelf/Uncommitted_changes_before_Update_at_2020_9_17_11_37_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/shelf/Uncommitted_changes_before_Update_at_2020_9_17_11_37__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/VariableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/hello/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/helloword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/input_bone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/test/sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/VariableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/helloword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/input_bone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/out/production/test1/print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/src/print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1/test1.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +72,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -44,6 +81,17 @@
     <configuration name="helloword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helloword" />
       <module name="IDEA-workspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,6 +112,7 @@
       <updated>1600313894350</updated>
       <workItem from="1600313895391" duration="133000" />
       <workItem from="1600314041968" duration="92000" />
+      <workItem from="1600314418812" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600313940393</created>
@@ -119,9 +168,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600313975702" />
-    <state x="178" y="22" key="new project wizard" timestamp="1600314131227">
+    <state x="468" y="0" width="600" height="824" key="find.popup" timestamp="1600314454859">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1600314131227" />
+    <state x="468" y="0" width="600" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1600314454859" />
+    <state x="178" y="22" key="new project wizard" timestamp="1600314517518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1600314517518" />
   </component>
 </project>
