@@ -20,41 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47aac48f-08b5-4920-96d0-4263378fbbc9" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/IDEA-workspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLearn/src/basic/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLearn/src/basic/AutoCoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLearn/src/basic/OverLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLearn/src/basic/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_9_17_11_39__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_9_17_11_39__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaLearn/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaLearn/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaLearn/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/VariableTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/hello/Post.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/helloword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/input_bone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/IDEA-workspace/sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/shelf/Uncommitted_changes_before_Update_at_2020_9_17_11_37_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/shelf/Uncommitted_changes_before_Update_at_2020_9_17_11_37__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/test/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/test/VariableTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/test/hello/Post.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/test/helloword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/test/input_bone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/out/production/test/sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/Post.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/VariableTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/helloword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/input_bone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/out/production/test1/print.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/src/print.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1/test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaLearn/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearn/src/basic/Code/AutoCodingTset.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +50,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.A1_Method">
+    <configuration name="A1_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A1_Method" />
+      <module name="IDEA-workspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="helloword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helloword" />
       <module name="IDEA-workspace" />
@@ -98,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A1_Method" />
         <item itemvalue="Application.helloword" />
       </list>
     </recent_temporary>
@@ -113,6 +94,8 @@
       <workItem from="1600313895391" duration="133000" />
       <workItem from="1600314041968" duration="92000" />
       <workItem from="1600314418812" duration="101000" />
+      <workItem from="1600777739540" duration="247000" />
+      <workItem from="1600778014226" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600313940393</created>
@@ -144,26 +127,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600314072911">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600777974152">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600314072911" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600314027605">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600777974152" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600778324538">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600314027605" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600314027605">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600778324538" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600778324538">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600314027605" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600314027605">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600778324538" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600778324537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600314027605" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600314027605">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600778324537" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600778324538">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600314027605" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600778324538" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600313975702">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
