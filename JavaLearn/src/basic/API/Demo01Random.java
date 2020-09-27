@@ -1,6 +1,5 @@
-package API;
+package basic.API;
 
-import java.security.PrivateKey;
 import java.util.Random;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package API;
+package basic.API;
 //包路径.类名称
 //java.lang包下的路径不需要导包
 //导包-创建-使用

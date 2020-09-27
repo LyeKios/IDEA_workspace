@@ -1,4 +1,4 @@
-package API;
+package basic.API;
 
 /**
  * 匿名对象只能一次性使用
