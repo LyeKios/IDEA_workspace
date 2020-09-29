@@ -16,7 +16,6 @@ public class MathClass {
         double stop = 5.9;
         double abs1 = 6.0;
         double abs2 = 2.1;
-
         int count = 0;
 
         for (double i = Math.ceil(start); i < Math.ceil(stop); i++) {
@@ -26,6 +25,4 @@ public class MathClass {
         }
         System.out.println("共有"+ count + "个");
     }
-
-
 }
