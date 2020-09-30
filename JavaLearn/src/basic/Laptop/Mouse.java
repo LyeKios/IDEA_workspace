@@ -11,4 +11,5 @@ public class Mouse implements USB{
     public void close() {
         System.out.println("关闭鼠标驱动。");
     }
+
 }

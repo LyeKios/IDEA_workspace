@@ -41,4 +41,9 @@ public class Master extends User{
         }
         return redList;
     }
+
+//    @Override
+//    public boolean equals(Object obj) {
+//        return super.equals(obj);
+//    }
 }
