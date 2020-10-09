@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">    <!--约束文档-->
+<mapper namespace="com.dao.StudentDao">
+
+    <select id="selectStudent" resultType="com.domain.Student">
+        select id, name, email, age from student order by id
+    </select>
+</mapper>
+<!--
+    sql映射文件：写sql语句的，mybatis会执行这些sql
+
+-->
