@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/../hello-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/../mybatis-dao/pom.xml" />
         <option value="$PROJECT_DIR$/../ch03-proxy-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../ch04-param/pom.xml" />
       </list>
     </option>
   </component>
