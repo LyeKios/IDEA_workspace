@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="hello-mybatis" />
         <module name="mybatis-dao" />
+        <module name="ch03-proxy-dao" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ch03-proxy-dao" target="1.8" />
       <module name="hello-mybatis" target="1.8" />
       <module name="mybatis-dao" target="1.8" />
     </bytecodeTargetLevel>

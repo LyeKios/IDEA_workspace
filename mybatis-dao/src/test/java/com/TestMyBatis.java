@@ -32,7 +32,7 @@ public class TestMyBatis {
     public void testUpdate() {
         StudentDao dao = new StudentDaoImpl();
         Student student = new Student();
-        student.setId(1006);
+        student.setId(1009);
         student.setName("曹操");
         student.setEmail("caocao@qq.com");
         student.setAge(28);
