@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- 你要用哪个对象，就是要bean声明哪个对象 -->
+    <!--<bean id="mysqlDao" class="com.bjpowernode.dao.impl.UserDaoImpl" />
+    <bean id="oracleDao" class="com.bjpowernode.dao.impl.OracleDaoImpl" />
+
+    &lt;!&ndash;声明service对象&ndash;&gt;
+    <bean id="userService" class="com.bjpowernode.service.impl.UserServiceImpl">
+        &lt;!&ndash;set注入&ndash;&gt;
+        <property name="dao" ref="oracleDao" />
+    </bean>-->
+
+    <!--声明组件扫描器-->
+    <context:component-scan base-package="com.bjpowernode.dao" />
+    <context:component-scan base-package="com.bjpowernode.service" />
+</beans>
