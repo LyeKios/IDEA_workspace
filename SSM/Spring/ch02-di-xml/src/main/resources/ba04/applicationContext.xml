@@ -30,7 +30,7 @@
         <property name="name" value="李四" />
         <property name="age" value="26" />
         <!--引用类型-->
-        <!--<property name="school" ref="mySchool" />-->
+    <!--<property name="school" ref="school" />-->
     </bean>
 
     <!--声明School对象-->

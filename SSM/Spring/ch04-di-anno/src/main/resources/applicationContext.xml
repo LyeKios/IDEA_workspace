@@ -16,7 +16,7 @@
         1.加入一个新的约束文件spring-context.xsd
         2.给这个新的约束文件起个命名空间的名称
     -->
-    <context:component-scan base-package="com.bjpowernode.ba02" />
+    <context:component-scan base-package="com.bjpowernode.ba06" />
 
    <!--
      <bean id="myXueXiao" class="com.bjpowernode.ba03.School">

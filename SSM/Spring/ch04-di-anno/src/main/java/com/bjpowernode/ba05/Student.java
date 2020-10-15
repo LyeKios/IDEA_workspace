@@ -33,7 +33,7 @@ public class Student {
 
     //byName自动注入
     @Autowired(required = false)
-    @Qualifier("mySchool-1")
+    @Qualifier("mySchool")
     private School school;
 
     public Student() {

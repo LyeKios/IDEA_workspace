@@ -21,7 +21,7 @@ public class Student {
         */
    public void setName(String name) {
         System.out.println("setName:"+name);
-        this.name = name.toUpperCase();
+        this.name = name;
     }
 
     public void setAge(int age) {

@@ -16,6 +16,7 @@ public class Student {
      */
     @Value("李四" )
     private String name;
+    @Value("30")
     private Integer age;
 
     /**
@@ -27,7 +28,7 @@ public class Student {
      *  位置：1）在属性定义的上面，无需set方法， 推荐使用
      *       2）在set方法的上面
      */
-    @Autowired
+//    @Autowired
     private School school;
 
     public Student() {
@@ -37,7 +38,7 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
-    @Value("30")
+//    @Value("30")
     public void setAge(Integer age) {
         System.out.println("setAge:"+age);
         this.age = age;

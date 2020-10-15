@@ -59,7 +59,7 @@
 
     <!--创建File,使用构造注入-->
     <bean id="myfile" class="java.io.File">
-        <constructor-arg name="parent" value="D:\course\JavaProjects\spring-course\ch01-hello-spring" />
+        <constructor-arg name="parent" value="D:\MyCode\Java\IDEA-workspace\SSM\Spring\ch02-di-xml" />
         <constructor-arg name="child" value="readme.txt" />
     </bean>
 
