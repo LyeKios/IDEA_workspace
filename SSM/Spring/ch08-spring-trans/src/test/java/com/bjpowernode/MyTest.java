@@ -15,7 +15,8 @@ public class MyTest {
         BuyGoodsService service = (BuyGoodsService) ctx.getBean("buyService");
 
         //调用方法
-        service.buy(1001,200);
+        service.buy(1001,10);
+        System.out.println(service.queryGoods(1001).toString());
     }
 
 }

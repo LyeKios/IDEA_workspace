@@ -9,6 +9,6 @@
     </insert>
 
     <select id="selectStudents" resultType="Student">
-        select id,name,email,age from student order by id desc
+        select id,name,email,age from student order by id
     </select>
 </mapper>

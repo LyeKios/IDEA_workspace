@@ -7,6 +7,8 @@ import com.bjpowernode.domain.Sale;
 import com.bjpowernode.excep.NotEnoughException;
 import com.bjpowernode.service.BuyGoodsService;
 
+import java.util.List;
+
 public class BuyGoodsServiceImpl implements BuyGoodsService {
 
     private SaleDao saleDao;
@@ -35,6 +37,12 @@ public class BuyGoodsServiceImpl implements BuyGoodsService {
         buyGoods.setAmount(nums);
         goodsDao.updateGoods(buyGoods);
         System.out.println("=====buy方法的完成====");
+    }
+
+    @Override
+    public Goods queryGoods(Integer goodsId) {
+        Goods good = goodsDao.selectGoods(goodsId);
+        return good;
     }
 
 

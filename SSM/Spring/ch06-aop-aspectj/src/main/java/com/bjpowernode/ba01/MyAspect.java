@@ -80,13 +80,13 @@ public class MyAspect {
      *    如果你的切面功能中需要用到方法的信息，就加入JoinPoint.
      *    这个JoinPoint参数的值是由框架赋予， 必须是第一个位置的参数
      */
-    @Before(value = "execution(void *..SomeServiceImpl.doSome(String,Integer))")
+    @Before(value = "execution(void *..*ServiceImpl.do*(..))")
     public void myBefore(JoinPoint jp){
         //获取方法的完整定义
         System.out.println("方法的签名（定义）="+jp.getSignature());
         System.out.println("方法的名称="+jp.getSignature().getName());
         //获取方法的实参
-        Object args [] = jp.getArgs();
+        Object[] args = jp.getArgs();
         for (Object arg:args){
             System.out.println("参数="+arg);
         }

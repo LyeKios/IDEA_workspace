@@ -30,7 +30,7 @@ public class MyTest {
         //获取spring容器中的dao对象
         StudentDao dao  = (StudentDao) ctx.getBean("studentDao");
         Student student  = new Student();
-        student.setId(1013);
+        student.setId(1012);
         student.setName("周锋");
         student.setEmail("zhoufeng@qq.com");
         student.setAge(20);
@@ -46,7 +46,7 @@ public class MyTest {
         //获取spring容器中的dao对象
         StudentService service = (StudentService) ctx.getBean("studentService");
         Student student  = new Student();
-        student.setId(1015);
+        student.setId(1011);
         student.setName("李胜利");
         student.setEmail("zhoufeng@qq.com");
         student.setAge(26);

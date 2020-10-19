@@ -10,6 +10,7 @@
     <!--把对象交给spring容器，由spring容器统一创建，管理对象-->
     <!--声明目标对象-->
     <bean id="someService" class="com.bjpowernode.ba08.SomeServiceImpl" />
+    <bean id="otherService" class="com.bjpowernode.ba01.OtherServiceImpl" />
 
     <!--声明切面类对象-->
     <bean id="myAspect" class="com.bjpowernode.ba08.MyAspect" />
@@ -20,7 +21,7 @@
 
         aspectj-autoproxy:会把spring容器中的所有的目标对象，一次性都生成代理对象。
     -->
-    <!--<aop:aspectj-autoproxy />-->
+<!--    <aop:aspectj-autoproxy />-->
 
 
     <!--
