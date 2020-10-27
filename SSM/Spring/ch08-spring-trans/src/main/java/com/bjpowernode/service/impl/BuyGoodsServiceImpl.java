@@ -54,3 +54,5 @@ public class BuyGoodsServiceImpl implements BuyGoodsService {
         this.goodsDao = goodsDao;
     }
 }
+
+

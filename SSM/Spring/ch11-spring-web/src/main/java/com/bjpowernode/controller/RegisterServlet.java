@@ -33,6 +33,7 @@ public class RegisterServlet extends HttpServlet {
             ctx = (WebApplicationContext)attr;
         }*/
 
+
         //使用框架中的方法，获取容器对象
         ServletContext sc = getServletContext();
         ctx = WebApplicationContextUtils.getRequiredWebApplicationContext(sc);
