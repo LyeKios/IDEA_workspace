@@ -1,19 +1,22 @@
 package org.example;
 
-class Solution {
-    public static void main(String[] args) {
-        boolean i = check(5);
-        System.out.println(i);
-        countPrimes(1);
-    }
-    public static void countPrimes(int n) {
-        System.out.println("11111");
-    }
+import java.util.Arrays;
 
-    public static boolean check(int n){
-        boolean t = Boolean.TRUE;
-        for (int i = 2; i < n; i++)
-            if (n % i == 0) t = false;
-        return t;
+// Definition for singly-linked list.
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int x) { val = x; }
+ }
+
+class Solution {
+
+}
+
+class m{
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        String n = "82734";
+        System.out.println(s);
     }
 }
